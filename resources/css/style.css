@@ -30,3 +30,20 @@ body{
 #process p{
   font-size: 14px;
 }
+
+#banner{
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+  background-image: url("images/the-flatiron-building.png");
+}
+
+#copyright{
+  font-size: 11px;
+}
+
+#footer{
+  text-align: left !important;
+  color: white;
+  background-color: dimgray;
+}
